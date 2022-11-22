@@ -11,7 +11,7 @@
     "object-assign": "^4.1.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "vinyl-source-stream": "^2.0.0"
   },
   "scripts": {
